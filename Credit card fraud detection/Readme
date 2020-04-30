@@ -1,0 +1,6 @@
+Using Isolation Forest algorithm to handle the highly imbalanced dataset which contains both normal transactions
+and fraudulent transactions. Detecting fraudulent transactions is very important for all credit card companies
+as these fraudsters might incur heavy losses to the companies. Using Isolation forest there is no need to do 
+oversampling as this algorithm is very good in handling imbalanced datasets.
+
+Dataset: the dataset can be easily accessed from Kaggle
